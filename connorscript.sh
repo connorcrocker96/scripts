@@ -1,3 +1,3 @@
 #!/bin/sh
-word="hey"
+word="Yo!"
 echo $word
